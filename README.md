@@ -1,2 +1,0 @@
-# DockerTest
-Docker test repository
